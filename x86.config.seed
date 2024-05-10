@@ -7,7 +7,6 @@ CONFIG_TARGET_x86_64_DEVICE_generic=y
 CONFIG_TARGET_ROOTFS_PARTSIZE=2050
 
 CONFIG_PACKAGE_acpid=y
-CONFIG_PACKAGE_luci-app-godproxy=y
 CONFIG_PACKAGE_luci-app-netdata=y
 CONFIG_PACKAGE_luci-app-aliddns=y
 CONFIG_PACKAGE_luci-app-passwall=y
